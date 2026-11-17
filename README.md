@@ -6,3 +6,5 @@ Hello my name is Benjamin JEGEDE, I in love with Java, ML and arduino. I'm 19 an
 I am now a Quality Assurance engineer, I have 6+ years of experience. I am now 27 years old.
 
 I worked at AppZone, Qore and Moniepoint.
+
+Working with Git
